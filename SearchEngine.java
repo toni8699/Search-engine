@@ -1,6 +1,3 @@
-// Tony Le
-// 260933631
-
 
 import java.util.HashMap;
 import java.util.ArrayList;
