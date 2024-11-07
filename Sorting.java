@@ -1,9 +1,7 @@
-//Tony Le
-// 260933631
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map.Entry; //
+import java.util.Map.Entry; 
 
 public class Sorting {
 
