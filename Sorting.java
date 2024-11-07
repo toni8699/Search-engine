@@ -42,7 +42,6 @@ public class Sorting {
 	 * of pairs in the map.
 	 */
 	public static <K, V extends Comparable> ArrayList<K> fastSort(HashMap<K, V> results) {
-		// ADD YOUR CODE HERE
 		ArrayList<K> list = new ArrayList<>(results.keySet());
 		//System.out.println("keys are "+ list);
 		//System.out.println("map is "+results);
@@ -77,7 +76,6 @@ public class Sorting {
 		int leftIndex = 0;
 		int rightIndex = 0;
 		int wholeIndex = 0;
-
 		// As long as neither the left nor the right ArrayList has
 		// been used up, keep taking the smaller of left.get(leftIndex)
 		// or right.get(rightIndex) and adding it at both.get(bothIndex).
