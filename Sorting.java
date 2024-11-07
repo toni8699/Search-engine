@@ -3,7 +3,7 @@
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Map.Entry; // You may need it to implement fastSort
+import java.util.Map.Entry; //
 
 public class Sorting {
 
